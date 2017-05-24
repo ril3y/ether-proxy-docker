@@ -1,2 +1,2 @@
-# gmc
-Musicoin geth (GMC)
+# ether-proxy
+Ether-proxy
