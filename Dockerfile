@@ -4,7 +4,8 @@ ENV GOPATH /home/go
 
 RUN apk --update add -ut build-deps \
     go \
-    git
+    git \
+    g++
 	
 RUN go get github.com/ethereum/ethash
 RUN go get github.com/ethereum/go-ethereum/common
