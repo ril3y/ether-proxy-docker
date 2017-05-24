@@ -1,0 +1,2 @@
+# gmc
+Musicoin geth (GMC)
